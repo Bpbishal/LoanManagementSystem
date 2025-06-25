@@ -42,7 +42,6 @@ A modern, multi-layered **Loan Management System** built using **ASP.NET Web API
    ```bash
    git clone https://github.com/Bpbishal/loan-management-system.git
    cd loan-management-system
-````
 
 2. **Configure Database**
 
@@ -57,7 +56,6 @@ A modern, multi-layered **Loan Management System** built using **ASP.NET Web API
 4. **Build & Launch API**
    Run the project in Visual Studio (IIS Express or preferred host)
 
----
 
 ## 🔥 API Endpoints
 
