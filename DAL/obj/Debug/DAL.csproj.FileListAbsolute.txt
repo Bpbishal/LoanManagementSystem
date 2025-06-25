@@ -1,0 +1,16 @@
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\bin\Debug\DAL.dll.config
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\bin\Debug\DAL.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\bin\Debug\DAL.pdb
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\bin\Debug\EntityFramework.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\bin\Debug\EntityFramework.xml
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\obj\Debug\DAL.Migrations.AddCustomerTable.resources
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\obj\Debug\DAL.Migrations.AddCustomerRelationToLoan.resources
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\obj\Debug\DAL.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\lmsapi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|solutionrelative:lmsapi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\bll\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|solutionrelative:bll\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\lmsapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|solutionrelative:lmsapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\ef\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\interface\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\bll\\dtos\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\migrations\\202506251649427_addcustomerrelationtoloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202506251649427_addcustomerrelationtoloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\migrations\\202506251640282_addcustomertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202506251640282_addcustomertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\interface\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\bll\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\lmsapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|solutionrelative:lmsapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\bll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|solutionrelative:bll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\interface\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\interface\\irepo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\irepo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\bll\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\bll\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\lmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\lmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\ef\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\bll\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|solutionrelative:bll\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\interface\\loanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\loanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\lmsapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|solutionrelative:lmsapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\lmsapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{441F9133-A0C3-43F6-A09C-FC2FC3B3070E}|LMSApi\\LMSApi.csproj|solutionrelative:lmsapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\dal\\migrations\\202506242114039_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272A8F-3D03-479F-9546-98CC9C97CC3A}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202506242114039_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|f:\\aiub\\spring-semester-2024-25\\dot net\\final\\lab\\loanmanagementsystem\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80FA0-8916-4D96-A709-55CF0189E0F3}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IPaymentRepository.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\IPaymentRepository.cs",
+              "RelativeToolTip": "DAL\\Interface\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:45:10.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\EF\\Loan.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Loan.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\EF\\Loan.cs",
+              "RelativeToolTip": "DAL\\EF\\Loan.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:37:25.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202506251649427_AddCustomerRelationToLoan.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Migrations\\202506251649427_AddCustomerRelationToLoan.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202506251649427_AddCustomerRelationToLoan.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Migrations\\202506251649427_AddCustomerRelationToLoan.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202506251649427_AddCustomerRelationToLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:49:50.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\LoanService.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Services\\LoanService.cs",
+              "RelativeToolTip": "BLL\\Services\\LoanService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAADwv3cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:03:08.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanDto.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\DTOs\\LoanDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\LoanDto.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\DTOs\\LoanDto.cs",
+              "RelativeToolTip": "BLL\\DTOs\\LoanDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:30:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "LMSApi\\Controllers\\LoanController.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "LMSApi\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:16:03.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "LMSApi\\Controllers\\PaymentController.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "LMSApi\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:28:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:10:11.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202506251640282_AddCustomerTable.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Migrations\\202506251640282_AddCustomerTable.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202506251640282_AddCustomerTable.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Migrations\\202506251640282_AddCustomerTable.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202506251640282_AddCustomerTable.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:40:33.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PaymentService.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Services\\PaymentService.cs",
+              "RelativeToolTip": "BLL\\Services\\PaymentService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:29:48.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\DTOs\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PaymentDto.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\DTOs\\PaymentDto.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PaymentDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:30:30.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "LMSApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "LMSApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:27:26.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\PaymentRepository.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\PaymentRepository.cs",
+              "RelativeToolTip": "DAL\\Interface\\PaymentRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:45:43.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CustomerService.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Services\\CustomerService.cs",
+              "RelativeToolTip": "BLL\\Services\\CustomerService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:22:45.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\CustomerRepo.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\CustomerRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\CustomerRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvwsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:11:42.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepo2.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\IRepo2.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IRepo2.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\IRepo2.cs",
+              "RelativeToolTip": "DAL\\Interface\\IRepo2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:13:22.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:41:35.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\DTOs\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\MappingProfile.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\DTOs\\MappingProfile.cs",
+              "RelativeToolTip": "BLL\\DTOs\\MappingProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:55:15.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IRepo.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\IRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:45:49.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CustomerDto.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:06:20.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\EF\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Customer.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\EF\\Customer.cs",
+              "RelativeToolTip": "DAL\\EF\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:05:24.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoanRepo.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\LoanRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\LoanRepo.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Interface\\LoanRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\LoanRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:46:45.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LMSContext.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\LMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\LMSContext.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\LMSContext.cs",
+              "RelativeToolTip": "DAL\\LMSContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:16:51.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IService.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\IService.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Services\\IService.cs",
+              "RelativeToolTip": "BLL\\Services\\IService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:56:23.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Global.asax.cs",
+              "RelativeDocumentMoniker": "LMSApi\\Global.asax.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Global.asax.cs",
+              "RelativeToolTip": "LMSApi\\Global.asax.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:56:44.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\EF\\Payment.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Payment.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\EF\\Payment.cs",
+              "RelativeToolTip": "DAL\\EF\\Payment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:38:59.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Web.config",
+              "RelativeDocumentMoniker": "LMSApi\\Web.config",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\LMSApi\\Web.config",
+              "RelativeToolTip": "LMSApi\\Web.config",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-24T20:42:38.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "202506242114039_InitialCreate.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Migrations\\202506242114039_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202506242114039_InitialCreate.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\DAL\\Migrations\\202506242114039_InitialCreate.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202506242114039_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:14:09.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "F:\\AIUB\\Spring-Semester-2024-25\\Dot net\\Final\\Lab\\LoanManagementSystem\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:16:36.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

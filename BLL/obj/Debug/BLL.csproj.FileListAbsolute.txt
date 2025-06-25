@@ -1,0 +1,17 @@
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\BLL.dll.config
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\BLL.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\BLL.pdb
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\AutoMapper.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\DAL.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\EntityFramework.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\DAL.pdb
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\DAL.dll.config
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\AutoMapper.xml
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\EntityFramework.xml
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\obj\Debug\BLL.csproj.Up2Date
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\obj\Debug\BLL.dll
+F:\AIUB\Spring-Semester-2024-25\Dot net\Final\Lab\LoanManagementSystem\BLL\obj\Debug\BLL.pdb
