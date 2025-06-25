@@ -1,4 +1,3 @@
-````markdown
 # 💼 Loan Management System - .NET Web API 💻
 
 A modern, multi-layered **Loan Management System** built using **ASP.NET Web API**, designed to track loans, payments, and interest — following clean architecture and professional coding standards.
